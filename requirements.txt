@@ -1,0 +1,10 @@
+# Test framework
+pytest == 8.4.2
+
+# Selenium webdriver
+selenium == 4.38.0
+
+# HTML reports 
+pytest-html == 4.1.1
+
+# Utilities

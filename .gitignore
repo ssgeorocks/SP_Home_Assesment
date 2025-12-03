@@ -1,0 +1,19 @@
+# Environments
+.myenv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Reports (generated)
+reports/
+
+# VS Code (optional)
+.vscode/
+
+# Secrets
+.env
