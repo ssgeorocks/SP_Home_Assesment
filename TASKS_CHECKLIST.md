@@ -31,7 +31,7 @@ A task checklist will be provided in order to showcase the high-level test scena
 - The user will filter their tasks by using the status filter "Incomplete"
 - The user will complete the task by selecting the checkbox and marking the task as Completed
 
-# 6. Verify the task completion
+## 6. Verify the task completion
 - The user will filter their tasks by using the status filter "Completed"
 - All completed tasks will be displayed with a checkbox marked
 - The task completion will be validated by inspecting the checkbox status.
